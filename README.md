@@ -3,7 +3,7 @@
 **Author:** Kevin Alejandro Gonzalez Villanueva
 
 ## Overview
-Object detection is one of the most critical tasks in computer vision. This repository addresses the detection of neuroblastoma—a prevalent malignant pediatric tumor—by applying computer vision techniques to analyze an *in vivo* zebrafish model.
+Object detection is one of the most critical tasks in computer vision. This repository addresses the detection of neuroblastoma, a prevalent malignant pediatric tumor, by applying computer vision techniques to analyze an *in vivo* zebrafish model.
 
 To tackle this detection problem, we utilize image processing methods such as morphological operations, thresholding, and segmentation. These techniques will ultimately provide the structured data necessary to build an environment for training a neural network via supervised learning.
 
@@ -23,7 +23,7 @@ To run this project, you will need Python 3.8+ and the following libraries:
 * matplotlib
 * tifffile
 * opencv-python (or scikit-image, depending on your implementation)
-* jupyter (to run the `.ipynb` file)
+* jupyter (to run the `proyecto_e1.ipynb` file)
 
 ## Installation and Usage
 
