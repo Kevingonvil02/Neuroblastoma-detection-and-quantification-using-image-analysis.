@@ -29,8 +29,7 @@ To run this project, you will need Python 3.8+ and the following libraries:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/YourUsername/YourRepositoryName.git
-   cd YourRepositoryName
+   gh repo clone Kevingonvil02/Neuroblastoma-detection-and-quantification-using-image-analysis.
    ```
 
 2. **Download the Dataset:**
