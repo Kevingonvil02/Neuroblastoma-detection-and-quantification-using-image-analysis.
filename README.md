@@ -34,16 +34,14 @@ To run this project, you will need Python 3.8+ and the following libraries:
    ```
 
 2. **Download the Dataset:**
-   The raw dataset is not included in this repository due to size constraints. Please download the dataset `.zip` file from [Insert Link Here] and extract it.
+   The raw dataset is not included in this repository due to size constraints. Please download the dataset `Proyecto Neuroblastoma peces cebra.zip` file from [https://drive.google.com/file/d/1s_EncRJLwCNlVF7RAthmldwoZFFA_6mM/view?usp=sharing] and extract it.
    
 3. **Set up the Directory:**
    Ensure the extracted dataset folder is set as the main root directory for the analysis, matching the `base_path` variables in the notebook.
 
 4. **Run the Notebook:**
-   Open the `.ipynb` file in PyCharm, Jupyter Notebook, or JupyterLab, and run the cells sequentially. The segmented output images will be saved automatically in the `Imágenes exportadas/` folder.
+   Open the `proyecto_e1.ipynb` file in PyCharm, Jupyter Notebook, or JupyterLab, and run the cells sequentially. The segmented output images will be saved automatically in the `Imágenes exportadas/` folder.
 
-## Data and Code Availability
-The dataset and the original `proyecto_e1.ipynb` file can be downloaded as a `.zip` archive from: **[Insert Link/DOI Here]**.
 
 ## License
 [MIT License or Creative Commons]
